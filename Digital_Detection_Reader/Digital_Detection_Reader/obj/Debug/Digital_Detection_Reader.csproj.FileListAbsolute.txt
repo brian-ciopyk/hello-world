@@ -1,0 +1,18 @@
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.exe.config
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.exe
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.pdb
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csprojResolveAssemblyReference.cache
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.Program.resources
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csproj.GenerateResource.Cache
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csproj.CoreCompileInputs.cache
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.exe
+C:\Users\brian.ciopyk\source\repos\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.pdb
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.Program.resources
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csproj.GenerateResource.Cache
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csproj.CoreCompileInputs.cache
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.exe
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.pdb
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.exe.config
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.exe
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\bin\Debug\Digital_Detection_Reader.pdb
+Z:\Digital Detection Programs\Digital_Detection_Reader\Digital_Detection_Reader\obj\Debug\Digital_Detection_Reader.csprojResolveAssemblyReference.cache
